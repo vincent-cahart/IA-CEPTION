@@ -5,3 +5,8 @@ CONFIG -= qt
 
 SOURCES += \
         main.cpp
+
+HEADERS += \
+    DataStructures.hpp \
+    GraphExplorer.hpp \
+    escapi.h
