@@ -87,5 +87,4 @@ void Graph::drawImage(const unsigned &mW) {
     }
 }
 
-//Salut a tous c'est antoine on se retrouve pour une nouvelle vidéo sur slither.io
 #endif // DATASTRUCTURES_HPP
